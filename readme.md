@@ -1,6 +1,6 @@
 This repository shows how to detect Game's Menus during play.
 
-It uses the differences between consecutive frames to detect if a large difference occurred.
+It uses the differences between consecutive frames to detect if a large difference occurred. Afterwards, it uses OCR to look for common Menu buttons such as 'Options' or 'Exit'.
 
 For Star Craft, the following Menu Frames have been detected in the video attached:
 
